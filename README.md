@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdityaO9/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdityaO9/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/AdityaO9/leetcode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/AdityaO9/leetcode/tree/master/0127-word-ladder) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/AdityaO9/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/AdityaO9/leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/AdityaO9/leetcode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/AdityaO9/leetcode/tree/master/0127-word-ladder) |
 ## Sliding Window
 |  |
 | ------- |
@@ -445,4 +447,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AdityaO9/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AdityaO9/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/AdityaO9/leetcode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/AdityaO9/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
